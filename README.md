@@ -1,6 +1,6 @@
 # Fashion-Recommendation-System
 
-This fashion recommendation system uses image data from the DeepFashion database. VGG-16 is used to extract image embeddings. Cosine similarity is calculated to display similar clothing images to a user based on an original clothing image choice.
+This fashion recommendation system uses image data from the DeepFashion database. VGG-16 is used to derive image embeddings. Cosine similarity is calculated to display similar clothing images to a user based on an original clothing image choice.
 
 
 The following sources were used as a guide to this project:
